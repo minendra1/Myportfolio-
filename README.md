@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](myportfolio-o0gkzy6vj-minendra-gangwars-projects.vercel.app)
+🔗 [View Portfolio Live](https://myportfolio-o0gkzy6vj-minendra-gangwars-projects.vercel.app/)
 
 ## 🛠️ Tech Stack
 
